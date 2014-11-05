@@ -1,2 +1,2 @@
-Sitemap: http://getnikola.com/sitemapindex.xml
+Sitemap: http://lmorillas.github.io/sitemapindex.xml
 

@@ -5,19 +5,23 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://getnikola.com/categories/github.xml</loc>
+  <loc>http://lmorillas.github.io/categories/github.xml</loc>
   <lastmod>2014-11-05</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://getnikola.com/categories/nikola.xml</loc>
+  <loc>http://lmorillas.github.io/categories/nikola.xml</loc>
   <lastmod>2014-11-05</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://getnikola.com/rss.xml</loc>
+  <loc>http://lmorillas.github.io/galleries/rss.xml</loc>
   <lastmod>2014-11-05</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://getnikola.com/sitemap.xml</loc>
+  <loc>http://lmorillas.github.io/rss.xml</loc>
+  <lastmod>2014-11-05</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://lmorillas.github.io/sitemap.xml</loc>
   <lastmod>2014-11-05</lastmod>
  </sitemap>
 </sitemapindex>
