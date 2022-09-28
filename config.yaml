@@ -1,0 +1,9 @@
+baseURL: http://example.org/
+languageCode: es
+title: 'lmorillas'
+
+
+module:
+  imports:
+    - path: github.com/nunocoracao/blowfish
+      disable: false
