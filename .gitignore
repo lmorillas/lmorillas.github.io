@@ -5,3 +5,5 @@ output
 .doit.db
 .hugo_build.lock
 public
+themes
+
