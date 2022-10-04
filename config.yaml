@@ -1,5 +1,9 @@
 baseURL: https://lmorillas.github.io
 languageCode: es
 title: 'lmorillas'
-theme: blow
 
+
+module:
+  imports:
+    - path: github.com/nunocoracao/blowfish
+      disable: false  
