@@ -6,4 +6,4 @@ output
 .hugo_build.lock
 public
 themes
-
+*.back
